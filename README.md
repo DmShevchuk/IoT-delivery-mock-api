@@ -15,7 +15,7 @@ docker run -d --name ozon -p 5000:80 ozon_image
 ```
 
 
-## Samokat
+## Самокат
 
 ```commandline
 cd samokat
@@ -30,7 +30,7 @@ docker run -d --name samokat -p 5001:80 samokat_image
 ```
 
 
-## Yandex
+## Яндекс
 
 ```commandline
 cd yandex
@@ -44,7 +44,7 @@ docker build -t yandex_image .
 docker run -d --name yandex -p 5002:80 yandex_image
 ```
 
-## Sber
+## Сбер
 
 ```commandline
 cd sber
